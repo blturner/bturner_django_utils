@@ -1,0 +1,2 @@
+include README LICENSE
+recursive-include bturner_django_utils *.py *.html *.js
